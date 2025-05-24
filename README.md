@@ -1,1 +1,1 @@
-# HonestyBot-redirect
+# honestybot-redirect
